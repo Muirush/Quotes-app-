@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DailyQuotes</string>
+    <string-array name="quotes">
+        <!--SimonMuiruri-->
+        <item>If it cannot run, thats not the end.</item>
+        <item>If it fails, then check the code once again.</item>
+        <item>Run, debug, run, debug is a day to day activity.</item>
+        <item>Facts overrides the known truth.</item>
+        <item>Anybody can write a code.</item>
+        <item>Nothing is difficult, our passions, persistence and aims differs.</item>
+        <item>One lecturer, one class, similar notes, similar exam, twenty four hours in each day yet different results,Time management determines who will be an boss and an employee in a particular class?</item>
+        <item>You can compete with anyone and win, failure starts in the mind.</item>
+        <item>You were headed on the right direction until you said "What if i fail".</item>
+        <item>Nobody will employ you to make you a Millionaire, they will just pay you enough to make you report to work next day.</item>
+        <item>When you have value in you, great men will recognize you.</item>
+        <item>If you add a P in the word resident, the new word is President, A Positive idea can make you the next big thing</item>
+
+        <!--Proff Njoka-->
+        <item>When you take drugs in campus you become a zombie.</item>
+        <item>...When you see Somebody doing that.., he/she is suffering from the POVERTY OF MIND</item>
+
+    </string-array>
+    <string-array name="authors">
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+        <item>Simon Muiruri</item>
+
+        <item>Prof. Njoka</item>
+        <item>Prof. Njoka</item>
+    </string-array>
+</resources>
